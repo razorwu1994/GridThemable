@@ -12,5 +12,3 @@ And Feel free to deploy it via Heroku,Github,AWS S3 thru static hosting.
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-I come for the hot reloading!
